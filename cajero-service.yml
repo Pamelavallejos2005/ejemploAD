@@ -1,1 +1,5 @@
+server:
+  port: ${8863}
+message: Configuracion de Cajero en el Servidor levantado!
 
+  
