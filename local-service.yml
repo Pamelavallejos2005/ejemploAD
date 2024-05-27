@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8861}
-message: Configuracion de Customer en el Servidor levantado!
+message: Configuracion de Local en el Servidor levantado!
 
