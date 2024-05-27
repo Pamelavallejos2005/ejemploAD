@@ -1,5 +1,5 @@
 server:
   port: ${PORT:8862}
-message: Configuracion de Cajero en el Servidor levantado!
+message: Configuracion del Customer en el Servidor levantado!
 
   
