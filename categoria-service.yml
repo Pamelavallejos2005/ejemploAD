@@ -14,4 +14,3 @@ spring:
 cloud:
   config:
     url: http://localhost:8860
-
